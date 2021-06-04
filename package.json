@@ -38,7 +38,7 @@
     "mysql2": "^2.2.5",
     "path": "^0.12.7",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.29",
+    "typeorm": "^0.2.34",
     "winston": "^3.3.3"
   },
   "repository": {
