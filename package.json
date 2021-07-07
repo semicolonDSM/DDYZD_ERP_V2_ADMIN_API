@@ -21,7 +21,7 @@
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "@types/bcrypt": "^5.0.0",
-    "@types/http-errors": "^1.8.0",
+    "@types/http-errors": "^1.8.1",
     "@types/jsonwebtoken": "^8.5.0",
     "@types/mysql": "^2.15.18",
     "bcrypt": "^5.0.1",
